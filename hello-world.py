@@ -1,4 +1,4 @@
 import logging as log
 
-print("Hello World!")
+print("Starting NLP project....")
 
