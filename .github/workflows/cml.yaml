@@ -12,7 +12,7 @@ jobs:
       #   with:
       #     node-version: '16'
       # - uses: actions/setup-python@v4
-      #   with:
+        with:
           python-version: '3.12.3'
       - uses: iterative/setup-cml@v1
       - name: Train model
